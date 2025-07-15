@@ -64,8 +64,8 @@ To cluster customers into meaningful groups using K-Means based on behavioral an
 **Eman Iqbal**  
 Machine Learning & Data Science Enthusiast  
 📍 Pakistan  
-📧 [Your Email]  
-🔗 [LinkedIn Profile]
+📧 emmnqb@gmail.com 
+🔗 www.linkedin.com/in/emaniqbal
 
 ## 📌 Future Improvements
 
